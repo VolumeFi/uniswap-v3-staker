@@ -1,0 +1,23 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "solidity.compileUsingLocalVersion": "/Users/omar/Code/uniswap/uniswap-v3-staker/soljson-v0.7.6+commit.7338295f.js",
+    "solidity.defaultCompiler": "remote",
+    "solidity.compileUsingRemoteVersion": "0.7.6",
+    "files.exclude": {
+      "**/.git": true,
+      "**/.svn": true,
+      "**/.hg": true,
+      "**/CVS": true,
+      "**/.DS_Store": true,
+      "artifacts": true,
+      "cache": true,
+      "typechain": true,
+      "**/node_modules": true
+    }
+  }
+}

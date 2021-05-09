@@ -4,7 +4,9 @@ import { ethers, waffle } from 'hardhat'
 import { linkLibraries } from './linkLibraries'
 import WETH9 from '../contracts/WETH9.json'
 
-import { IWETH9 } from '../../typechain/IWETH9'
+// import { IWETH9 } from '../../typechain/IWETH9'
+
+import { IWETH9 } from 'uniswap-v3-periphery/typechain'
 import { IUniswapV3Factory } from '../../typechain/IUniswapV3Factory'
 import { TestERC20 } from '../../typechain/TestERC20'
 

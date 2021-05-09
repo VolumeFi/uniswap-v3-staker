@@ -1,0 +1,12 @@
+[submodule "uniswap-v3-core"]
+	path = uniswap-v3-core
+	url = git@github.com:Uniswap/uniswap-v3-core.git
+[submodule "uniswap-v3-periphery"]
+	path = uniswap-v3-periphery
+	url = git@github.com:Uniswap/uniswap-v3-periphery.git
+[submodule "packages/uniswap-v3-core"]
+	path = packages/uniswap-v3-core
+	url = git@github.com:Uniswap/uniswap-v3-core.git
+[submodule "packages/uniswap-v3-periphery"]
+	path = packages/uniswap-v3-periphery
+	url = git@github.com:Uniswap/uniswap-v3-periphery.git
